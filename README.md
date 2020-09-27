@@ -31,7 +31,7 @@ Finished | Exercise | Difficulty | Description | Report
 
 Finished | Exercise | Difficulty | Description | Report
 ---------|----------|---------|---------|---------
-:x: | [Boring table](02-html/simple-table/README.md) | :star: | | [:memo:](02-html/simple-table/REPORT.md)
+<!-- :x: | [Boring table](02-html/simple-table/README.md) | :star: | | [:memo:](02-html/simple-table/REPORT.md) -->
 
 ### CSS
 
