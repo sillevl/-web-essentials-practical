@@ -24,7 +24,7 @@ In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/com
 Finished | Exercise | Difficulty | Description | Report
 ---------|----------|---------|---------|---------
 :x: | [Hello World](01-hello-world/hello-world/README.md) | :star: | Hello World exmaple | [:memo:](01-hello-world/hello-world/REPORT.md)
-:x: | [Publish to Netlify](01-hello-world/publisch-to-netlify/README.md) | :star: | Publishing it to Netlify webhosting | [:memo:](01-hello-world/hello-world/REPORT.md)
+:x: | [Publish to Netlify](01-hello-world/publish-to-netlify/README.md) | :star: | Publishing it to Netlify webhosting | [:memo:](01-hello-world/publish-to-netlify/REPORT.md)
 :x: | [Your first HTML document](01-hello-world/first-html-document/README.md) | :star: | Your first webpage | [:memo:](01-hello-world/hello-world/REPORT.md)
 
 ### HTML
