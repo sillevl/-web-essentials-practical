@@ -80,9 +80,9 @@ Your website is now being fetched from GitHub and being prepared by Netlify. Thi
 
 Note that Netlify will choose a random name for your project. This name is used in the URL that is used for your website as well. In this example the name is `peaceful-mclean-4324dc`. The website is available using the URL `https://peaceful-mclean-4324dc.netlify.app/`. Checkout your link and try to surf to your webpage on Netlify.
 
-::: warning URL sharing
-Only share your URL with people that you want to be able to visit your webpage. If you share your URL with other students, they will be able to watch all your source code and solutions!!!
-:::
+### Warning! URL sharing
+
+Only share your URL with people that you want to be able to visit your webpage. If you share your URL with other students, they **will be able to watch all your source code and solutions!!!**
 
 ## Updating your webpage on Netlify
 
