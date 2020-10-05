@@ -9,14 +9,14 @@ The teacher will notify you when updates are available and when you should pull 
 To pull the latest updates you will first need to add the original repo on which this one was based. This only needs to be done once for every cloned instance:
 
 ```shell
-git remote add base git@github.com:vives-web-essentials-2020/exercises.git
+git remote add base git@github.com:vives-web-essentials-2020/web-essentials-practical.git
 ```
 
 `base` is the name of remote repo. Now you should see two remotes when issuing the command `git remote -v`. For example:
 
 ```text
-base     git@github.com:vives-web-essentials-2020/exercises.git (fetch)
-base     git@github.com:vives-web-essentials-2020/exercises.git (push)
+base     git@github.com:vives-web-essentials-2020/web-essentials-practical.git (fetch)
+base     git@github.com:vives-web-essentials-2020/web-essentials-practical.git (push)
 origin  git@github.com:vives-introduction-to-programming-2020/web-essentials-practical-sillevl.git (fetch)
 origin  git@github.com:vives-introduction-to-programming-2020/web-essentials-practical-sillevl.git (push)
 ```
