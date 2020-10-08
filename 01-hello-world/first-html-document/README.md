@@ -1,6 +1,6 @@
 # Your first HTML document
 
-Create a small resume about yourself. Clear the previous Hello World code before continuing. Try to use some other HTML elements. Google on how they work and how to use them:
+Create a small resume about yourself. Try to use some other HTML elements. Google on how they work and how to use them:
 
 * **Heading**: Add a heading containing your name
 * **Multiple paragraphs**: Add some paragraphs telling something about your self.
