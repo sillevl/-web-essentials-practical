@@ -30,7 +30,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint-markdown"
+      "pre-commit": "npm run all"
     }
   }
 }
