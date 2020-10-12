@@ -1,8 +1,8 @@
 {
   "scripts": {
     "lint-html": "htmlhint --warn",
-    "lint-css": "stylelint **/*.css",
-    "lint-js": "eslint \"**/*.js\"",
+    "lint-css": "stylelint **/*.css --allow-empty-input",
+    "lint-js": "eslint \"**/*.js\" --no-error-on-unmatched-pattern",
     "lint-markdown": "markdownlint **/*.md",
     "all": "npm run lint-html && npm run lint-css && npm run lint-js && npm run lint-markdown && exit 0"
   },
