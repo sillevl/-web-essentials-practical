@@ -30,7 +30,7 @@ Finished | Exercise | Difficulty | Description | Report
 
 Finished | Exercise | Difficulty | Description | Report
 ---------|----------|---------|---------|---------
-:x: | [Your first HTML document](02-html/first-html-document/README.md) | :star: | Your first webpage | [:memo:](02-html/hello-world/REPORT.md)
+:x: | [Your first HTML document](02-html/first-html-document/README.md) | :star: | Your first webpage | [:memo:](02-html/first-html-document/REPORT.md)
 :x: | [Links and images](02-html/links-and-images/README.md) | :star: | Webpage using internal and external links, and images| [:memo:](02-html/links-and-images/REPORT.md)
 :x: | [Simple table](02-html/simple-table/README.md) | :star: | Build a simple HTML table | [:memo:](02-html/simple-table/REPORT.md)
 
