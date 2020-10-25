@@ -1,6 +1,10 @@
 # Login form
 
-TODO
+Try to recreate the following login form using HTML and CSS.
+
+![Simple Login form](./img/example.png)
+
+Take a look at HTML forms, input and buttons elements.
 
 ## Report
 
