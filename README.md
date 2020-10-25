@@ -38,6 +38,10 @@ Finished | Exercise | Difficulty | Description | Report
 
 Finished | Exercise | Difficulty | Description | Report
 ---------|----------|---------|---------|---------
+:x: | [Class schedule](03-css/schedule/README.md) | :star::star: | | [:memo:](03-css/schedule/REPORT.md)
+:x: | [Popup](03-css/popup/README.md) | :star: | | [:memo:](03-css/popup/REPORT.md)
+:x: | [Login form](03-css/loginform/README.md) | :star::star:  | | [:memo:](03-css/loginform/REPORT.md)
+:x: | [Topbar icons](03-css/topbar-icons/README.md) | :star::star: | | [:memo:](03-css/topbar-icons/REPORT.md)
 
 ### Layouts
 
@@ -47,9 +51,6 @@ Finished | Exercise | Difficulty | Description | Report
 :x: | [Landing page](04-layouts/landing-page/README.md) | :star: | | [:memo:](04-layouts/landing-page/REPORT.md)
 :x: | [Simple layout](04-layouts/simple-layout/README.md) | :star: | | [:memo:](04-layouts/simple-layout/REPORT.md)
 :x: | [OXO](04-layouts/oxo-grid/README.md) | :star: | | [:memo:](04-layouts/oxo-grid/REPORT.md)
-:x: | [Popup](04-layouts/popup/README.md) | :star: | | [:memo:](04-layouts/popup/REPORT.md)
-:x: | [Class schedule](04-layouts/schedule/README.md) | :star::star: | | [:memo:](04-layouts/schedule/REPORT.md)
-:x: | [Topbar icons](04-layouts/topbar-icons/README.md) | :star::star: | | [:memo:](04-layouts/topbar-icons/REPORT.md)
 :x: | [Price comparison](04-layouts/price-comparison/README.md) | :star::star::star: | | [:memo:](04-layouts/price-comparison/REPORT.md)
 :x: | [Card designs](04-layouts/card-designs/README.md) | ️️️️️️:star::star::star: | | [:memo:](04-layouts/card-designs/REPORT.md)
 :x: | [Blog](04-layouts/blog/README.md) | ️️️️️️:star::star::star: | | [:memo:](04-layouts/blog/REPORT.md) -->
